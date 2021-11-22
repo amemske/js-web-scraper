@@ -1,2 +1,2 @@
-# Node Web Scraper with Cherrios
-The project shows how to use cheerios to scrap the web
+# Node Web Scraper with Cherrio
+The project shows how to use cheerio to scrap the web
